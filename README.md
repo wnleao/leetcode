@@ -1,4 +1,4 @@
-# Leetcode Python solutions (medium and hard problems)
+# Leetcode solutions (medium and hard problems)
 
 | # | Problem | Difficulty | Solution |
 | - | - | - | - |
@@ -7,3 +7,4 @@
 | 62 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | Medium | [python3](https://github.com/wnleao/leetcode/blob/main/62.py) |
 | 63 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii)| Medium | [python3](https://github.com/wnleao/leetcode/blob/main/63.py) |
 | 980 | [Unique Paths III](https://leetcode.com/problems/unique-paths-iii/) | Hard | [python3](https://github.com/wnleao/leetcode/blob/main/980.py) |
+| 1036 | [Escape a Large Maze](https://leetcode.com/problems/escape-a-large-maze) | Hard | [python3](https://github.com/wnleao/leetcode/blob/main/1036.py) |
