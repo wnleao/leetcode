@@ -1,6 +1,3 @@
-#
-# 62. Unique Paths - https://leetcode.com/problems/unique-paths/description/
-#
 class Solution1:
 
     def uniquePaths(self, m: int, n: int) -> int:

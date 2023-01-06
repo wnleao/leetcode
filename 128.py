@@ -1,7 +1,3 @@
-#
-# 128. Longest Consecutive Sequence - https://leetcode.com/problems/longest-consecutive-sequence
-# OBS: You must write an algorithm that runs in O(n) time.
-#
 class Solution1:
 
     def longestConsecutive(self, nums: list[int]) -> int:

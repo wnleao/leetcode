@@ -1,6 +1,3 @@
-#
-# 1036. Escape a Large Maze - https://leetcode.com/problems/escape-a-large-maze
-#
 from typing import List
 from heapq import heappop, heappush
 from collections import deque

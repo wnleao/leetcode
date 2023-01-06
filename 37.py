@@ -1,6 +1,3 @@
-#
-# 37. Sudoku Solver - https://leetcode.com/problems/sudoku-solver/description/
-#
 from typing import List
 
 
