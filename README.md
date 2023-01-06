@@ -10,4 +10,5 @@
 | 452 | [Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons) | Medium | [python3](https://github.com/wnleao/leetcode/blob/main/452.py)
 | 980 | [Unique Paths III](https://leetcode.com/problems/unique-paths-iii/) | Hard | [python3](https://github.com/wnleao/leetcode/blob/main/980.py) |
 | 1036 | [Escape a Large Maze](https://leetcode.com/problems/escape-a-large-maze) | Hard | [python3](https://github.com/wnleao/leetcode/blob/main/1036.py) |
+| 1833 | [Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars) | Medium | [python3](https://github.com/wnleao/leetcode/blob/main/1833.py) |
 | 2244 | [Minimum Rounds to Complete All Tasks](https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks) | Medium | [python3](https://github.com/wnleao/leetcode/blob/main/2244.py) |
