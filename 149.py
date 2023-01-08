@@ -12,23 +12,14 @@ class SolutionOn3:
             return N
 
         max_points = 0
-        for i in range(N-2):
-            xi, yi = points[i]
-            for j in range(i+1, N-1):
+        
+        for i, (xi, yi) in enumerate(points[:-2]):
+            for j, (xj, yj) in enumerate(points[i+1:-1]):
                 num_points = 2
-                xj, yj = points[j]
-                if xi != xj:
-                    # slanted line
-                    slope = (yj - yi)/(xj - xi)
-                    for k in range(j+1, N):
-                        xk, yk = points[k]
-                        if xk != xi and math.isclose((yk - yi)/(xk - xi), slope):
-                            num_points += 1
-                else:
-                    # vertical line
-                    for k in range(j+1, N):
-                        if points[k][0] == xi:
-                            num_points += 1
+                slope = (yj - yi)/(xj - xi) if xj != xi else math.inf
+                for (xk, yk) in points[i+j+2:]:
+                    if math.isclose((yk - yi)/(xk - xi) if xk != xi else math.inf, slope):
+                        num_points += 1                    
                 
                 max_points = max(max_points, num_points)
 
@@ -44,17 +35,14 @@ class SolutionOn2:
             return N
 
         max_points = 0
-        for i in range(N-1):
-            xi, yi = points[i]
+        for i, (xi, yi) in enumerate(points[:-1]):
             slopes = {}
-            for j in range(i+1, N):
-                xj, yj = points[j]
+            for (xj, yj) in points[i+1:]:
                 slope = round((yj - yi)/(xj - xi), 9) if xj != xi else math.inf
                 slopes[slope] = slopes.get(slope, 1) + 1
                 max_points = max(max_points, slopes[slope])
 
         return max_points
-
 
 
 class SolutionOn2UsingCounter:
@@ -65,11 +53,11 @@ class SolutionOn2UsingCounter:
         if N <= 2:
             return N
 
-        def slope(i: int, j: int):
-            return round((points[j][1] - points[i][1])/(points[j][0] - points[i][0]), 9) if points[j][0] != points[i][0] else math.inf
+        def slope(p1, p2):
+            return round((p1[1] - p2[1])/(p1[0] - p2[0]), 9) if p1[0] != p2[0] else math.inf
 
         # +1 because we need to keep track of the starting point!
-        return 1 + max([max(Counter([slope(i, j) for j in range(i+1, N)]).values()) for i in range(N-1)])
+        return 1 + max([max(Counter([slope(p1, p2) for p2 in points[i+1:]]).values()) for i, p1 in enumerate(points[:-1])])
 
 
 if __name__ == '__main__':
