@@ -10,6 +10,7 @@
 | 63 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii)| Medium | | [python3](https://github.com/wnleao/leetcode/blob/main/63.py) |
 | 128| [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence) | Medium | | [python3](https://github.com/wnleao/leetcode/blob/main/128.py) |
 | 134 | [Gas Station](https://leetcode.com/problems/gas-station) | Medium | | [python3](https://github.com/wnleao/leetcode/blob/main/134.py) |
+| 149 | [Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line) | Hard | | [python3](https://github.com/wnleao/leetcode/blob/main/149.py) |
 | 452 | [Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons) | Medium | | [python3](https://github.com/wnleao/leetcode/blob/main/452.py)
 | 454 | [4Sum II](https://leetcode.com/problems/4sum-ii) | Medium | | [python3](https://github.com/wnleao/leetcode/blob/main/454.py) |
 | 684 | [Redundant Connection](https://leetcode.com/problems/redundant-connection) | Medium | [Union-Find](#union-find)  | [python3](https://github.com/wnleao/leetcode/blob/main/684.py) |
