@@ -15,6 +15,7 @@
 | 454 | [4Sum II](https://leetcode.com/problems/4sum-ii) | Medium | | [python3](https://github.com/wnleao/leetcode/blob/main/python/454.py) |
 | 684 | [Redundant Connection](https://leetcode.com/problems/redundant-connection) | Medium | [Union-Find](#union-find)  | [python3](https://github.com/wnleao/leetcode/blob/main/python/684.py) |
 | 685 | [Redundant Connection II](https://leetcode.com/problems/redundant-connection-ii) | Hard | [Union-Find](#union-find)  | [python3](https://github.com/wnleao/leetcode/blob/main/python/685.py) |
+| 695 | [Max Area of Island](https://leetcode.com/problems/max-area-of-island) | Medium | [Union-Find](#union-find)  | [python3](https://github.com/wnleao/leetcode/blob/main/python/695.py) |
 | 721 | [Accounts Merge](https://leetcode.com/problems/accounts-merge) | Medium | [Union-Find](#union-find)  | [python3](https://github.com/wnleao/leetcode/blob/main/python/721.py) |
 | 980 | [Unique Paths III](https://leetcode.com/problems/unique-paths-iii) | Hard | | [python3](https://github.com/wnleao/leetcode/blob/main/python/980.py) |
 | 1036 | [Escape a Large Maze](https://leetcode.com/problems/escape-a-large-maze) | Hard | | [python3](https://github.com/wnleao/leetcode/blob/main/python/1036.py) |
