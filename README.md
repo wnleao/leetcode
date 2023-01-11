@@ -20,6 +20,7 @@
 | 980 | [Unique Paths III](https://leetcode.com/problems/unique-paths-iii) | Hard | | [python3](https://github.com/wnleao/leetcode/blob/main/python/980.py) |
 | 1036 | [Escape a Large Maze](https://leetcode.com/problems/escape-a-large-maze) | Hard | | [python3](https://github.com/wnleao/leetcode/blob/main/python/1036.py) |
 | 1239 | [Maximum Length of a Concatenated String with Unique Characters](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters) | Medium | | [python3](https://github.com/wnleao/leetcode/blob/main/python/1239.py) |
+| 1443 | [Minimum Time to Collect All Apples in a Tree](https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree) | Medium | | [python3](https://github.com/wnleao/leetcode/blob/main/python/1443.py) |
 | 1833 | [Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars) | Medium | | [python3](https://github.com/wnleao/leetcode/blob/main/python/1833.py) |
 | 2244 | [Minimum Rounds to Complete All Tasks](https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks) | Medium | | [python3](https://github.com/wnleao/leetcode/blob/main/python/2244.py) |
 
