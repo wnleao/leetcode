@@ -26,6 +26,7 @@
 | 1519 | [Number of Nodes in the Sub-Tree With the Same Label](https://leetcode.com/problems/number-of-nodes-in-the-sub-tree-with-the-same-label) | Medium | | [python3](https://github.com/wnleao/leetcode/blob/main/python/1519.py) |
 | 1833 | [Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars) | Medium | | [python3](https://github.com/wnleao/leetcode/blob/main/python/1833.py) |
 | 2244 | [Minimum Rounds to Complete All Tasks](https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks) | Medium | | [python3](https://github.com/wnleao/leetcode/blob/main/python/2244.py) |
+| 2246 | [Longest Path with Different Adjacent Characters](https://leetcode.com/problems/longest-path-with-different-adjacent-characters) | Medium | | [python3](https://github.com/wnleao/leetcode/blob/main/python/2246.py) |
 
 ## References
 
