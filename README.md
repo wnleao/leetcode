@@ -6,6 +6,7 @@
 | - | - | - | - | - |
 | 37 | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) | Hard | | [python3](https://github.com/wnleao/leetcode/blob/main/python/37.py) |
 | 51 | [N-Queens](https://leetcode.com/problems/n-queens) | Hard | | [python3](https://github.com/wnleao/leetcode/blob/main/python/51.py) |
+| 57 | [Insert Interval](https://leetcode.com/problems/insert-interval) | Medium | | [python3](https://github.com/wnleao/leetcode/blob/main/python/57.py) |
 | 62 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | Medium | | [python3](https://github.com/wnleao/leetcode/blob/main/python/62.py) |
 | 63 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii)| Medium | | [python3](https://github.com/wnleao/leetcode/blob/main/python/63.py) |
 | 128| [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence) | Medium | | [python3](https://github.com/wnleao/leetcode/blob/main/python/128.py) |
