@@ -24,6 +24,7 @@
 | 926 | [Flip String to Monotone Increasing](https://leetcode.com/problems/flip-string-to-monotone-increasing) | Medium | | [python3](https://github.com/wnleao/leetcode/blob/main/python/926.py) |
 | 974 | [Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k) | Medium | | [python3](https://github.com/wnleao/leetcode/blob/main/python/974.py) |
 | 980 | [Unique Paths III](https://leetcode.com/problems/unique-paths-iii) | Hard | | [python3](https://github.com/wnleao/leetcode/blob/main/python/980.py) |
+| 1015 | [Smallest Integer Divisible by K](https://leetcode.com/problems/smallest-integer-divisible-by-k) | Medium | | [python3](https://github.com/wnleao/leetcode/blob/main/python/1015.py) |
 | 1036 | [Escape a Large Maze](https://leetcode.com/problems/escape-a-large-maze) | Hard | | [python3](https://github.com/wnleao/leetcode/blob/main/python/1036.py) |
 | 1061 | [Lexicographically Smallest Equivalent String](https://leetcode.com/problems/lexicographically-smallest-equivalent-string) | Medium | [Union-Find](#union-find) | [python3](https://github.com/wnleao/leetcode/blob/main/python/1061.py) |
 | 1239 | [Maximum Length of a Concatenated String with Unique Characters](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters) | Medium | | [python3](https://github.com/wnleao/leetcode/blob/main/python/1239.py) |
@@ -32,6 +33,7 @@
 | 1833 | [Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars) | Medium | | [python3](https://github.com/wnleao/leetcode/blob/main/python/1833.py) |
 | 2244 | [Minimum Rounds to Complete All Tasks](https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks) | Medium | | [python3](https://github.com/wnleao/leetcode/blob/main/python/2244.py) |
 | 2246 | [Longest Path with Different Adjacent Characters](https://leetcode.com/problems/longest-path-with-different-adjacent-characters) | Medium | | [python3](https://github.com/wnleao/leetcode/blob/main/python/2246.py) |
+| 2364 | [Count Number of Bad Pairs](https://leetcode.com/problems/count-number-of-bad-pairs) | Medium | | [python3](https://github.com/wnleao/leetcode/blob/main/python/2364.py) |
 | 2421 | [Number of Good Paths](https://leetcode.com/problems/number-of-good-paths) | Hard | [Union-Find](#union-find) | [python3](https://github.com/wnleao/leetcode/blob/main/python/2421.py) |
 
 ## References
