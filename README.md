@@ -22,6 +22,7 @@
 | 765 | [Couples Holding Hands](https://leetcode.com/problems/couples-holding-hands) | Hard | [Union-Find](#union-find) | [python3](https://github.com/wnleao/leetcode/blob/main/python/765.py) |
 | 918 | [Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray) | Medium | | [python3](https://github.com/wnleao/leetcode/blob/main/python/918.py) |
 | 926 | [Flip String to Monotone Increasing](https://leetcode.com/problems/flip-string-to-monotone-increasing) | Medium | | [python3](https://github.com/wnleao/leetcode/blob/main/python/926.py) |
+| 974 | [Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k) | Medium | | [python3](https://github.com/wnleao/leetcode/blob/main/python/974.py) |
 | 980 | [Unique Paths III](https://leetcode.com/problems/unique-paths-iii) | Hard | | [python3](https://github.com/wnleao/leetcode/blob/main/python/980.py) |
 | 1036 | [Escape a Large Maze](https://leetcode.com/problems/escape-a-large-maze) | Hard | | [python3](https://github.com/wnleao/leetcode/blob/main/python/1036.py) |
 | 1061 | [Lexicographically Smallest Equivalent String](https://leetcode.com/problems/lexicographically-smallest-equivalent-string) | Medium | [Union-Find](#union-find) | [python3](https://github.com/wnleao/leetcode/blob/main/python/1061.py) |
