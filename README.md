@@ -15,6 +15,7 @@
 | 224 | [Basic Calculator](https://leetcode.com/problems/basic-calculator) | Hard | | [python3](https://github.com/wnleao/leetcode/blob/main/python/224.py) |
 | 452 | [Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons) | Medium | | [python3](https://github.com/wnleao/leetcode/blob/main/python/452.py)
 | 454 | [4Sum II](https://leetcode.com/problems/4sum-ii) | Medium | | [python3](https://github.com/wnleao/leetcode/blob/main/python/454.py) |
+| 491 | [Non-decreasing Subsequences](https://leetcode.com/problems/non-decreasing-subsequences) | Medium | | [python3](https://github.com/wnleao/leetcode/blob/main/python/491.py) |
 | 684 | [Redundant Connection](https://leetcode.com/problems/redundant-connection) | Medium | [Union-Find](#union-find)  | [python3](https://github.com/wnleao/leetcode/blob/main/python/684.py) |
 | 685 | [Redundant Connection II](https://leetcode.com/problems/redundant-connection-ii) | Hard | [Union-Find](#union-find)  | [python3](https://github.com/wnleao/leetcode/blob/main/python/685.py) |
 | 695 | [Max Area of Island](https://leetcode.com/problems/max-area-of-island) | Medium | [Union-Find](#union-find)  | [python3](https://github.com/wnleao/leetcode/blob/main/python/695.py) |
