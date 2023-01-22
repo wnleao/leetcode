@@ -11,6 +11,7 @@
 | 63 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii)| Medium | | [python3](https://github.com/wnleao/leetcode/blob/main/python/63.py) |
 | 93 | [Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses)| Medium | | [python3](https://github.com/wnleao/leetcode/blob/main/python/93.py) |
 | 128| [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence) | Medium | | [python3](https://github.com/wnleao/leetcode/blob/main/python/128.py) |
+| 131 | [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning) | Medium | | [python3](https://github.com/wnleao/leetcode/blob/main/python/131.py) |
 | 134 | [Gas Station](https://leetcode.com/problems/gas-station) | Medium | | [python3](https://github.com/wnleao/leetcode/blob/main/python/134.py) |
 | 149 | [Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line) | Hard | | [python3](https://github.com/wnleao/leetcode/blob/main/python/149.py) |
 | 224 | [Basic Calculator](https://leetcode.com/problems/basic-calculator) | Hard | | [python3](https://github.com/wnleao/leetcode/blob/main/python/224.py) |
