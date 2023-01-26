@@ -24,6 +24,7 @@
 | 695 | [Max Area of Island](https://leetcode.com/problems/max-area-of-island) | Medium | [union-find](#union-find)  | [python3](https://github.com/wnleao/leetcode/blob/main/python/695.py) |
 | 721 | [Accounts Merge](https://leetcode.com/problems/accounts-merge) | Medium | [union-find](#union-find)  | [python3](https://github.com/wnleao/leetcode/blob/main/python/721.py) |
 | 765 | [Couples Holding Hands](https://leetcode.com/problems/couples-holding-hands) | Hard | [union-find](#union-find) | [python3](https://github.com/wnleao/leetcode/blob/main/python/765.py) |
+| 787 | [Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops) | Medium | | [python3](https://github.com/wnleao/leetcode/blob/main/python/787.py) |
 | 909 | [Snakes and Ladders](https://leetcode.com/problems/snakes-and-ladders) | Medium | | [python3](https://github.com/wnleao/leetcode/blob/main/python/909.py) |
 | 918 | [Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray) | Medium | | [python3](https://github.com/wnleao/leetcode/blob/main/python/918.py) |
 | 926 | [Flip String to Monotone Increasing](https://leetcode.com/problems/flip-string-to-monotone-increasing) | Medium | | [python3](https://github.com/wnleao/leetcode/blob/main/python/926.py) |
