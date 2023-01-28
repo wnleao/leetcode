@@ -16,6 +16,7 @@
 | 134 | [Gas Station](https://leetcode.com/problems/gas-station) | Medium | | [python3](https://github.com/wnleao/leetcode/blob/main/python/134.py) |
 | 149 | [Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line) | Hard | | [python3](https://github.com/wnleao/leetcode/blob/main/python/149.py) |
 | 224 | [Basic Calculator](https://leetcode.com/problems/basic-calculator) | Hard | | [python3](https://github.com/wnleao/leetcode/blob/main/python/224.py) |
+| 352 | [Data Stream as Disjoint Intervals](https://leetcode.com/problems/data-stream-as-disjoint-intervals) | Hard | | [python3](https://github.com/wnleao/leetcode/blob/main/python/352.py) |
 | 452 | [Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons) | Medium | | [python3](https://github.com/wnleao/leetcode/blob/main/python/452.py)
 | 454 | [4Sum II](https://leetcode.com/problems/4sum-ii) | Medium | | [python3](https://github.com/wnleao/leetcode/blob/main/python/454.py) |
 | 491 | [Non-decreasing Subsequences](https://leetcode.com/problems/non-decreasing-subsequences) | Medium | | [python3](https://github.com/wnleao/leetcode/blob/main/python/491.py) |
