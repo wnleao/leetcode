@@ -6,7 +6,7 @@ class SummaryRanges:
         self.values: list[bool] = [False]*(self.max_value + 1)
         # makes it easier to retrieve an interval given a starting point
         self.starts: dict[int, int] = {}
-        # makes it easier to retrieve an interval given a ending point
+        # makes it easier to retrieve an interval given an ending point
         self.ends: dict[int, int] = {}
         # cache the disjoint intervals 
         # Whenever we add a new number, the cache will be cleared
@@ -30,13 +30,11 @@ class SummaryRanges:
         new_start = new_end = value
         lid = value - 1
         if lid >= 0 and self.values[lid]:
-            new_start = self.ends[lid]
-            del self.ends[lid]
+            new_start = self.ends.pop(lid)            
 
         rid = value + 1
         if rid <= self.max_value and self.values[rid]:
-            new_end = self.starts[rid]
-            del self.starts[rid]
+            new_end = self.starts.pop(rid)
 
         self.starts[new_start] = new_end
         self.ends[new_end] = new_start
